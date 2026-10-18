@@ -1,6 +1,6 @@
 ·····   👋 Hi, I’m @N3U2O  
 ··•··   👀 I’m interested in demoscene, electronic music, computer & data science  
-···•·   🌱 I’m currently learning cloud technologies, ML, databases  
+···•·   🌱 I’m currently learning and teaching math
 ·•••·   💞️ I’m open to collaborate on game development  
 ·····   📫 Reach me by n3u2o _at_ hotmail.com  
 <!---
